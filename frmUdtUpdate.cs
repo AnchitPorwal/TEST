@@ -17,7 +17,7 @@ namespace BeeSys.Wasp3D.Utility
     public partial class frmUdtUpdate : Form
     {
 
-//this is a test
+//this is a testfdsfsfsf
         #region Class Variables
         //Note : Our parent table is Category table and child table is Data table.
         UDTHandler _serviceUDTHandler = null;
@@ -40,7 +40,7 @@ test();
        
         #endregion
 
-public void test()
+public void test1()
 {
 int i =0;
 int j=10;
