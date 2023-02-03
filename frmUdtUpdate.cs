@@ -17,7 +17,7 @@ namespace BeeSys.Wasp3D.Utility
     public partial class frmUdtUpdate : Form
     {
 
-//this is a testfdsfsfsf dsdsa
+//this is a testfdsfsfsf dsdsa adfadad
         #region Class Variables
         //Note : Our parent table is Category table and child table is Data table.
         UDTHandler _serviceUDTHandler = null;
@@ -35,6 +35,7 @@ namespace BeeSys.Wasp3D.Utility
             InitializeComponent();
 test();
             this.FormClosing += FrmUdtUpdate_FormClosing ;
+this.FormClosing += FrmUdtUpdate_FormClosing ;
         }
 
        
