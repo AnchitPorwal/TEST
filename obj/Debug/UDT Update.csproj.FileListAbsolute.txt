@@ -1,0 +1,29 @@
+C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\UDT Update.csproj.AssemblyReference.cache
+C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\UDT Update.csproj.SuggestedBindingRedirects.cache
+C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\BeeSys.Wasp3D.Utility.Properties.Resources.resources
+C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\UDT Update.csproj.GenerateResource.cache
+C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\UDT Update.csproj.CoreCompileInputs.cache
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp3D.Utility.UdtUpdate.exe.config
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp3D.Utility.UdtUpdate.exe
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp3D.Utility.UdtUpdate.pdb
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp.Communicator.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp.KernelController.IServices.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp.KernelController.IUDTDataManager.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp.KernelController.UDTDataManagerHelper.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp.KernelController.UDTManagerHelper.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\Beesys.Wasp.KernelController.IArcUnArcManager.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp.KernelController.IDeviceManager.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp.KernelController.IScheduleManager.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp.KernelController.IUserManager.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp.KernelController.IWaspUpdatesManager.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp.KernelController.IFavoritesManager.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\GeneralTasks.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\Xceed.Compression.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Wasp.KernelController.IUDTManager.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\BeeSys.Shared.Library.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\SnmpSharpNet.dll
+C:\Users\anchit\Documents\GitHub\TEST1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\BeeSys.Wasp3D.Utility.frmUdtUpdate.resources
+C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\UDT Update.csproj.CopyComplete
+C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\BeeSys.Wasp3D.Utility.UdtUpdate.exe
+C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\BeeSys.Wasp3D.Utility.UdtUpdate.pdb

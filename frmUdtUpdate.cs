@@ -14,7 +14,7 @@ using System.Windows.Forms;
 
 namespace BeeSys.Wasp3D.Utility
 {
-    public partial class frmUdtUpdate2 : Form
+    public partial class frmUdtUpdate : Form
     {
 
 //this is a testfdsfsfsf dsdsa adfadad
@@ -26,14 +26,14 @@ namespace BeeSys.Wasp3D.Utility
         string _parentPrimaryKeyColumnName = null;
         string _childPrimaryKeyColumnName = null;
         string _textColumn = "Text";
-        string _detailColumn = "Details"
+        string _detailColumn = "Details";
         #endregion
 
         #region Initialize UI Form
         public frmUdtUpdate()
         {
             InitializeComponent();
-test();
+
             this.FormClosing += FrmUdtUpdate_FormClosing ;
 this.FormClosing += FrmUdtUpdate_FormClosing ;
         }
@@ -41,12 +41,6 @@ this.FormClosing += FrmUdtUpdate_FormClosing ;
        
         #endregion
 
-public void test1()
-{
-int i =0;
-int j=10;
-int k=j/i;
-}
 
         #region Establish Connection with KC
         private void btnConnect_Click(object sender, EventArgs e)
