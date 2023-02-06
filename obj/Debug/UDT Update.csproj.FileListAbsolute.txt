@@ -1,5 +1,3 @@
-C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\UDT Update.csproj.AssemblyReference.cache
-C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\UDT Update.csproj.SuggestedBindingRedirects.cache
 C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\BeeSys.Wasp3D.Utility.Properties.Resources.resources
 C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\UDT Update.csproj.GenerateResource.cache
 C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\UDT Update.csproj.CoreCompileInputs.cache
@@ -27,3 +25,4 @@ C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\BeeSys.Wasp3D.Utility.frmUdtUpd
 C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\UDT Update.csproj.CopyComplete
 C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\BeeSys.Wasp3D.Utility.UdtUpdate.exe
 C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\BeeSys.Wasp3D.Utility.UdtUpdate.pdb
+C:\Users\anchit\Documents\GitHub\TEST1\obj\Debug\UDT Update.csprojAssemblyReference.cache
