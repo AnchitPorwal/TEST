@@ -8,7 +8,7 @@ jobs:
     name: Let chatgpt comment on your PR.
     steps:
       - name: ChatGPT comment
-        uses: AnchitPorwal/TEST
+        uses: AnchitPorwal/TEST@HEAD
         id: AnchitPorwal
         with:
           number: ${{ github.event.pull_request.number }}
