@@ -14,7 +14,7 @@ using System.Windows.Forms;
 
 namespace BeeSys.Wasp3D.Utility
 {
-    public partial class frmUdtUpdate1 : Form
+    public partial class frmUdtUpdate : Form
     {
 
        
@@ -34,7 +34,7 @@ namespace BeeSys.Wasp3D.Utility
         public frmUdtUpdate()
         {
             InitializeComponent();
-            int i = 0;
+            int iw = 0;
             int j = 10;
             int k = j / i;
 
@@ -47,7 +47,7 @@ this.FormClosing += FrmUdtUpdate_FormClosing ;
        
         #endregion
 
-private void test ()
+private void test1 ()
 {
 int i=0;
 int j=10;
