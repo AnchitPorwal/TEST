@@ -2,7 +2,7 @@ name: "ChatGPT Integration"
 description: "This action integrates ChatGPT into your CI."
 branding:
   icon: activity
-  color: green
+  color: orange
 
 inputs:
   number:
