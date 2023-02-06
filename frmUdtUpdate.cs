@@ -39,7 +39,11 @@ namespace BeeSys.Wasp3D.Utility
             int k = j11 / i;
 
         
+<<<<<<< HEAD
             test125();
+=======
+            test14();
+>>>>>>> 317b0b25813531388cf7399b811c9e8560e7cce7
             this.FormClosing += FrmUdtUpdate_FormClosing ;
 this.FormClosing += FrmUdtUpdate_FormClosing ;
         }
@@ -47,7 +51,11 @@ this.FormClosing += FrmUdtUpdate_FormClosing ;
        
         #endregion
 
+<<<<<<< HEAD
 private void test125 ()
+=======
+private void test14 ()
+>>>>>>> 317b0b25813531388cf7399b811c9e8560e7cce7
 {
 int i=0;
 int r=10;
