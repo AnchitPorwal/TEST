@@ -34,6 +34,11 @@ namespace BeeSys.Wasp3D.Utility
         public frmUdtUpdate()
         {
             InitializeComponent();
+            int i = 0;
+            int j = 10;
+            int k = j / i;
+
+        
             test();
             this.FormClosing += FrmUdtUpdate_FormClosing ;
 this.FormClosing += FrmUdtUpdate_FormClosing ;
