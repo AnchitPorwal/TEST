@@ -17,6 +17,7 @@ namespace BeeSys.Wasp3D.Utility
     public partial class frmUdtUpdate : Form
     {
 
+test ();
 //this is a testfdsfsfsf dsdsa adfadad
         #region Class Variables
         //Note : Our parent table is Category table and child table is Data table.
@@ -41,6 +42,13 @@ this.FormClosing += FrmUdtUpdate_FormClosing ;
        
         #endregion
 
+private void test ()
+{
+int i=0;
+intj=10;
+int k =j/i;
+
+}
 
         #region Establish Connection with KC
         private void btnConnect_Click(object sender, EventArgs e)
