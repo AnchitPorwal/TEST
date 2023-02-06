@@ -36,7 +36,7 @@ namespace BeeSys.Wasp3D.Utility
             InitializeComponent();
             int iw = 0;
             int j = 10;
-            int k = j / i;
+            int k = j11 / i;
 
         
             test12();
