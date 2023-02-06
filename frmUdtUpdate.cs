@@ -14,7 +14,7 @@ using System.Windows.Forms;
 
 namespace BeeSys.Wasp3D.Utility
 {
-    public partial class frmUdtUpdate : Form
+    public partial class frmUdtUpdate1 : Form
     {
 
        
